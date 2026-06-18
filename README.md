@@ -7,4 +7,4 @@ playwrightbook -i ./PlaybookTemplate.json <=劇本路徑
 ```
 
 ## 相關
-[SPEC](./doc/SPEC.md)
+[SPEC](./doc/spec.md)
